@@ -1,0 +1,11 @@
+{
+  "task": {
+    "_id": "String",
+    "isOpen": "Boolean",
+    "timeInterval":"Number",
+    "lastRunTime":"String",
+    "parameters": "String",
+    "screenshotImages": "Array"
+  }
+
+}

@@ -1,0 +1,83 @@
+[2018-02-05T16:16:58.484] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-05T16:19:00.789] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-05T16:19:04.879] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-05T16:19:33.033] [INFO] screenshot_log - The screenshot tasks have finished.
+[2018-02-05T16:23:01.099] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-05T16:23:05.878] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-05T16:24:31.092] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-05T16:24:35.772] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-05T16:25:07.130] [INFO] screenshot_log - The screenshot tasks have finished.
+[2018-02-05T16:30:33.457] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-05T16:30:38.218] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-05T16:37:00.329] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-05T16:37:06.583] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-05T16:38:49.737] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-05T16:38:55.567] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-05T16:44:45.374] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-05T16:44:50.489] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-05T16:45:14.120] [ERROR] screenshot_log - net::ERR_CONNECTION_TIMED_OUT
+[2018-02-05T16:45:14.420] [INFO] screenshot_log - The screenshot tasks have finished.
+[2018-02-05T16:46:39.185] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-05T16:47:13.376] [ERROR] mongodb_log - Mongoose connected error MongoNetworkError: failed to connect to server [10.200.200.157:27017] on first connect [MongoNetworkError: connect EHOSTUNREACH 10.200.200.157:27017]
+[2018-02-05T16:49:57.575] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-05T16:50:04.565] [ERROR] screenshot_log - net::ERR_NETWORK_CHANGED
+[2018-02-05T16:50:04.950] [INFO] screenshot_log - The screenshot tasks have finished.
+[2018-02-05T16:50:25.510] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-05T16:53:03.406] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-05T16:53:27.088] [ERROR] screenshot_log - net::ERR_CONNECTION_TIMED_OUT
+[2018-02-05T17:11:36.527] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-05T17:11:48.011] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-05T17:12:11.794] [ERROR] screenshot_log - net::ERR_CONNECTION_TIMED_OUT
+[2018-02-05T17:14:27.153] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-05T17:14:31.000] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-05T17:15:27.334] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-05T17:15:31.405] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-05T17:15:55.051] [ERROR] screenshot_log - net::ERR_CONNECTION_TIMED_OUT
+[2018-02-05T17:17:03.994] [ERROR] screenshot_log - net::ERR_CONNECTION_TIMED_OUT
+[2018-02-05T17:17:04.353] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-05T17:23:48.056] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-05T17:24:32.887] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-05T17:24:56.561] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-05T17:26:06.077] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-05T17:26:06.711] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-05T17:27:39.421] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-05T17:27:50.749] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-05T17:27:53.927] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_INTERNET_DISCONNECTED
+[2018-02-05T17:27:56.800] [ERROR] screenshot_log - this url(https://item.taobao.com/item.htm?spm=a219r.lm5179.14.14.7edcfd9aDHBbxi&id=561617556678&ns=1&abbucket=10#detail):net::ERR_INTERNET_DISCONNECTED
+[2018-02-05T17:28:01.091] [ERROR] screenshot_log - this url(https://item.taobao.com/item.htm?spm=a219r.lm5179.14.14.7edcfd9aDHBbxi&id=561617556678&ns=1&abbucket=10#detail):net::ERR_INTERNET_DISCONNECTED
+[2018-02-05T17:28:05.391] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_INTERNET_DISCONNECTED
+[2018-02-05T17:28:06.001] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-05T17:28:13.936] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-05T17:40:41.677] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-05T17:41:05.382] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-05T17:42:11.738] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-05T17:42:12.389] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-05T17:56:12.008] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-05T17:56:42.681] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-05T17:57:03.901] [ERROR] screenshot_log - qx-request:net::ERR_CONNECTION_TIMED_OUT
+[2018-02-05T17:57:03.902] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-05T17:57:04.141] [ERROR] screenshot_log - qx-request:net::ERR_CONNECTION_TIMED_OUT
+[2018-02-05T17:57:09.020] [ERROR] screenshot_log - qx-request:net::ERR_CONNECTION_REFUSED
+[2018-02-05T17:57:10.460] [ERROR] screenshot_log - qx-request:net::ERR_CONNECTION_REFUSED
+[2018-02-05T17:58:12.667] [ERROR] screenshot_log - qx-request:net::ERR_CONNECTION_TIMED_OUT
+[2018-02-05T17:58:12.668] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-05T17:58:12.909] [ERROR] screenshot_log - qx-request:net::ERR_CONNECTION_TIMED_OUT
+[2018-02-05T17:58:13.233] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-05T18:02:28.083] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-05T18:02:34.178] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-05T18:02:59.827] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-05T18:04:06.415] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-05T18:04:07.072] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-05T18:06:03.104] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-05T18:06:35.842] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-05T18:06:38.949] [ERROR] screenshot_log - qx-request:this url(https://try-puppeteer.appspot.com/):net::ERR_NETWORK_CHANGED
+[2018-02-05T18:06:38.954] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_NETWORK_CHANGED
+[2018-02-05T18:06:41.881] [ERROR] screenshot_log - qx-request:this url(https://item.taobao.com/item.htm?spm=a219r.lm5179.14.14.7edcfd9aDHBbxi&id=561617556678&ns=1&abbucket=10#detail):net::ERR_INTERNET_DISCONNECTED
+[2018-02-05T18:06:41.883] [ERROR] screenshot_log - this url(https://item.taobao.com/item.htm?spm=a219r.lm5179.14.14.7edcfd9aDHBbxi&id=561617556678&ns=1&abbucket=10#detail):net::ERR_INTERNET_DISCONNECTED
+[2018-02-05T18:06:46.218] [ERROR] screenshot_log - qx-request:this url(https://item.taobao.com/item.htm?spm=a219r.lm5179.14.14.7edcfd9aDHBbxi&id=561617556678&ns=1&abbucket=10#detail):net::ERR_INTERNET_DISCONNECTED
+[2018-02-05T18:06:46.219] [ERROR] screenshot_log - this url(https://item.taobao.com/item.htm?spm=a219r.lm5179.14.14.7edcfd9aDHBbxi&id=561617556678&ns=1&abbucket=10#detail):net::ERR_INTERNET_DISCONNECTED
+[2018-02-05T18:06:46.349] [ERROR] screenshot_log - qx-request:this url(https://item.taobao.com/item.htm?spm=a219r.lm5179.14.14.7edcfd9aDHBbxi&id=561617556678&ns=1&abbucket=10#detail):net::ERR_INTERNET_DISCONNECTED
+[2018-02-05T18:06:50.476] [ERROR] screenshot_log - qx-request:this url(https://try-puppeteer.appspot.com/):net::ERR_INTERNET_DISCONNECTED
+[2018-02-05T18:06:50.477] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_INTERNET_DISCONNECTED
+[2018-02-05T18:06:50.591] [ERROR] screenshot_log - qx-request:this url(https://try-puppeteer.appspot.com/):net::ERR_INTERNET_DISCONNECTED
+[2018-02-05T18:06:59.083] [ERROR] mongodb_log - Mongoose disconnected

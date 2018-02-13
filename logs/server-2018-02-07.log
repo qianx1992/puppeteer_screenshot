@@ -1,0 +1,96 @@
+[2018-02-07T11:01:21.714] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-07T11:01:45.397] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T11:02:55.586] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T11:02:56.277] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-07T11:05:02.619] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-07T11:05:07.047] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-07T11:05:30.739] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T11:06:37.768] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T11:06:38.345] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-07T11:08:41.748] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-07T11:08:46.281] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-07T11:09:07.693] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T11:10:16.168] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T11:10:16.687] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-07T11:21:21.910] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-07T11:21:25.993] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-07T11:21:49.854] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T11:22:19.648] [ERROR] screenshot_log - this url(https://item.taobao.com/item.htm?spm=a219r.lm5179.14.14.7edcfd9aDHBbxi&id=561617556678&ns=1&abbucket=10#detail):resultList is not defined
+[2018-02-07T11:22:33.981] [ERROR] screenshot_log - this url(https://item.taobao.com/item.htm?spm=a219r.lm5179.14.14.7edcfd9aDHBbxi&id=561617556678&ns=1&abbucket=10#detail):resultList is not defined
+[2018-02-07T11:22:59.419] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T11:23:00.268] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-07T11:27:27.284] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-07T11:40:31.431] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-07T11:40:55.357] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T11:42:04.039] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T11:42:04.561] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-07T11:45:04.824] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-07T11:45:08.737] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-07T11:45:32.681] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T11:46:28.661] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-07T11:46:41.621] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-07T11:47:05.510] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T11:48:14.277] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T11:48:14.769] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-07T12:18:21.768] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-07T12:18:25.617] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-07T12:18:49.483] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T12:19:58.182] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T12:19:58.648] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-07T12:22:04.574] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-07T12:22:08.430] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-07T12:22:32.381] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T12:23:42.972] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T12:23:43.472] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-07T13:34:10.830] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-07T13:34:15.787] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-07T13:34:39.780] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T13:35:39.446] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-07T13:37:45.250] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-07T13:37:48.861] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-07T13:38:12.738] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T13:39:23.881] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-07T13:41:39.502] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-07T13:41:44.951] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-07T13:42:08.862] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T13:43:14.780] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-07T13:44:44.216] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-07T13:44:48.233] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-07T13:45:12.403] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T13:46:26.514] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-07T13:48:19.675] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-07T13:48:22.840] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-07T13:48:46.597] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T13:49:55.592] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-07T13:52:11.765] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-07T13:52:15.316] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-07T13:52:38.963] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T13:53:47.447] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-07T14:06:38.345] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-07T14:07:01.827] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-07T14:07:25.568] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T14:07:30.878] [ERROR] screenshot_log - this url(https://item.taobao.com/item.htm?spm=a219r.lm5179.14.14.7edcfd9aDHBbxi&id=561617556678&ns=1&abbucket=10#detail):realHeight is not defined
+[2018-02-07T14:07:35.989] [ERROR] screenshot_log - this url(https://item.taobao.com/item.htm?spm=a219r.lm5179.14.14.7edcfd9aDHBbxi&id=561617556678&ns=1&abbucket=10#detail):realHeight is not defined
+[2018-02-07T14:07:48.069] [ERROR] screenshot_log - this url(https://www.apple.com/cn/):realHeight is not defined
+[2018-02-07T14:07:48.697] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-07T14:10:30.467] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-07T14:10:33.315] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-07T14:10:57.022] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T14:12:56.439] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-07T14:13:02.101] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-07T14:13:25.754] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T14:14:57.215] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-07T14:16:37.250] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-07T14:16:40.616] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-07T14:17:04.346] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T14:18:36.595] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-07T15:12:22.781] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-07T15:12:46.513] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T15:14:17.853] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-07T16:22:29.142] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-07T16:22:52.878] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T16:24:34.006] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-07T17:57:58.883] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-07T17:58:22.654] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-07T17:59:50.262] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-07T18:15:55.233] [ERROR] mongodb_log - Mongoose disconnected

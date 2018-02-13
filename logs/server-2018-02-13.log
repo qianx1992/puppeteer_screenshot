@@ -1,0 +1,90 @@
+[2018-02-13T10:36:05.589] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-13T10:36:29.223] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-13T10:38:25.651] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-13T10:43:08.617] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-13T10:43:32.206] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-13T10:45:30.120] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-13T10:48:52.161] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-13T10:49:15.784] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-13T10:51:12.279] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-13T11:06:46.984] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-13T11:07:10.565] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-13T11:08:16.490] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-13T11:12:33.992] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-13T11:12:45.435] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-13T11:13:09.035] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-13T11:13:59.461] [ERROR] screenshot_log - this url(https://item.taobao.com/item.htm?spm=a219r.lm5179.14.14.7edcfd9aDHBbxi&id=561617556678&ns=1&abbucket=10#detail):dateTools.getNowFormatDate is not a function
+[2018-02-13T11:14:21.289] [ERROR] screenshot_log - this url(https://item.taobao.com/item.htm?spm=a219r.lm5179.14.14.7edcfd9aDHBbxi&id=561617556678&ns=1&abbucket=10#detail):dateTools.getNowFormatDate is not a function
+[2018-02-13T11:14:41.421] [ERROR] screenshot_log - this url(https://www.apple.com/cn/):dateTools.getNowFormatDate is not a function
+[2018-02-13T11:15:04.521] [ERROR] screenshot_log - this url(https://item.taobao.com/item.htm?spm=a21bo.2017.201876.43.3f9a0030Oaxhh8&scm=1007.12493.92624.100200300000005&id=523387189238&pvid=6da310d8-fc0b-4870-905b-d3764fa6e4d2):dateTools.getNowFormatDate is not a function
+[2018-02-13T11:15:05.211] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-13T11:38:37.054] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-13T12:14:58.452] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-13T12:15:22.071] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-13T12:15:48.622] [ERROR] screenshot_log - this url(https://item.taobao.com/item.htm?spm=a219r.lm5179.14.14.7edcfd9aDHBbxi&id=561617556678&ns=1&abbucket=10#detail):Cannot read property 'scrollEnable' of undefined
+[2018-02-13T12:16:17.407] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-13T12:16:21.179] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-13T12:16:44.775] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-13T12:17:35.069] [ERROR] screenshot_log - this url(https://item.taobao.com/item.htm?spm=a219r.lm5179.14.14.7edcfd9aDHBbxi&id=561617556678&ns=1&abbucket=10#detail):dateTools.getNowFormatDate is not a function
+[2018-02-13T12:17:57.232] [ERROR] screenshot_log - this url(https://item.taobao.com/item.htm?spm=a219r.lm5179.14.14.7edcfd9aDHBbxi&id=561617556678&ns=1&abbucket=10#detail):dateTools.getNowFormatDate is not a function
+[2018-02-13T12:18:11.278] [ERROR] screenshot_log - this url(https://www.apple.com/cn/):dateTools.getNowFormatDate is not a function
+[2018-02-13T12:18:34.459] [ERROR] screenshot_log - this url(https://item.taobao.com/item.htm?spm=a21bo.2017.201876.43.3f9a0030Oaxhh8&scm=1007.12493.92624.100200300000005&id=523387189238&pvid=6da310d8-fc0b-4870-905b-d3764fa6e4d2):dateTools.getNowFormatDate is not a function
+[2018-02-13T12:18:35.180] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-13T12:21:20.432] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-13T12:28:58.886] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-13T12:29:22.818] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-13T12:30:02.849] [ERROR] screenshot_log - this url(https://item.taobao.com/item.htm?spm=a219r.lm5179.14.14.7edcfd9aDHBbxi&id=561617556678&ns=1&abbucket=10#detail):fileconfig is not defined
+[2018-02-13T12:30:22.803] [ERROR] screenshot_log - this url(https://item.taobao.com/item.htm?spm=a219r.lm5179.14.14.7edcfd9aDHBbxi&id=561617556678&ns=1&abbucket=10#detail):fileconfig is not defined
+[2018-02-13T12:30:33.412] [ERROR] screenshot_log - this url(https://www.apple.com/cn/):fileconfig is not defined
+[2018-02-13T12:30:54.200] [ERROR] screenshot_log - this url(https://item.taobao.com/item.htm?spm=a21bo.2017.201876.43.3f9a0030Oaxhh8&scm=1007.12493.92624.100200300000005&id=523387189238&pvid=6da310d8-fc0b-4870-905b-d3764fa6e4d2):fileconfig is not defined
+[2018-02-13T12:30:54.891] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-13T12:36:49.632] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-13T12:36:58.597] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-13T12:37:22.225] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-13T12:38:08.699] [ERROR] screenshot_log - this url(https://item.taobao.com/item.htm?spm=a219r.lm5179.14.14.7edcfd9aDHBbxi&id=561617556678&ns=1&abbucket=10#detail):ENOENT: no such file or directory, open 'D:\img\20180213123801_ver1.png'
+[2018-02-13T12:38:30.203] [ERROR] screenshot_log - this url(https://item.taobao.com/item.htm?spm=a219r.lm5179.14.14.7edcfd9aDHBbxi&id=561617556678&ns=1&abbucket=10#detail):ENOENT: no such file or directory, open 'D:\img\20180213123828_ver2.png'
+[2018-02-13T12:38:43.536] [ERROR] screenshot_log - this url(https://www.apple.com/cn/):ENOENT: no such file or directory, open 'D:\img\20180213123840_ver3.png'
+[2018-02-13T12:39:06.494] [ERROR] screenshot_log - this url(https://item.taobao.com/item.htm?spm=a21bo.2017.201876.43.3f9a0030Oaxhh8&scm=1007.12493.92624.100200300000005&id=523387189238&pvid=6da310d8-fc0b-4870-905b-d3764fa6e4d2):ENOENT: no such file or directory, open 'D:\img\20180213123904_ver4.png'
+[2018-02-13T12:39:07.200] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-13T12:48:01.130] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-13T12:48:04.936] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-13T12:48:28.537] [ERROR] screenshot_log - this url(https://try-puppeteer.appspot.com/):net::ERR_CONNECTION_TIMED_OUT
+[2018-02-13T12:49:19.244] [ERROR] screenshot_log - this url(https://item.taobao.com/item.htm?spm=a219r.lm5179.14.14.7edcfd9aDHBbxi&id=561617556678&ns=1&abbucket=10#detail):ENOENT: no such file or directory, open 'D:\img\20180213124908_ver1.png'
+[2018-02-13T12:49:40.962] [ERROR] screenshot_log - this url(https://item.taobao.com/item.htm?spm=a219r.lm5179.14.14.7edcfd9aDHBbxi&id=561617556678&ns=1&abbucket=10#detail):ENOENT: no such file or directory, open 'D:\img\20180213124939_ver2.png'
+[2018-02-13T12:49:54.498] [ERROR] screenshot_log - this url(https://www.apple.com/cn/):ENOENT: no such file or directory, open 'D:\img\20180213124951_ver3.png'
+[2018-02-13T12:50:17.444] [ERROR] screenshot_log - this url(https://item.taobao.com/item.htm?spm=a21bo.2017.201876.43.3f9a0030Oaxhh8&scm=1007.12493.92624.100200300000005&id=523387189238&pvid=6da310d8-fc0b-4870-905b-d3764fa6e4d2):ENOENT: no such file or directory, open 'D:\img\20180213125015_ver4.png'
+[2018-02-13T12:50:18.354] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-13T12:53:42.601] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-13T12:53:45.924] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-13T12:54:38.412] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-13T13:32:23.785] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-13T13:32:46.378] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-13T13:33:48.443] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-13T13:33:51.925] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-13T13:34:12.913] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-13T13:37:42.429] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-13T13:38:01.386] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-13T13:51:14.296] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-13T13:51:35.008] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-13T14:17:38.017] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-13T14:17:44.686] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-13T14:18:36.776] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-13T14:36:55.437] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-13T14:36:58.805] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-13T14:37:50.514] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-13T14:40:55.062] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-13T14:40:58.454] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-13T14:41:50.767] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-13T14:48:10.352] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-13T14:48:15.374] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-13T14:49:07.557] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-13T14:51:38.340] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-13T14:51:43.154] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-13T14:52:35.572] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-13T14:53:40.942] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-13T14:53:44.745] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-13T14:54:36.001] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-13T15:03:25.968] [ERROR] mongodb_log - Mongoose disconnected
+[2018-02-13T15:04:36.784] [INFO] screenshot_log - The screenshot tasks are starting...
+[2018-02-13T15:04:59.565] [INFO] screenshot_log - The screenshot tasks have finished today.
+[2018-02-13T15:06:50.004] [ERROR] mongodb_log - Mongoose disconnected
