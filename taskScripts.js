@@ -8,7 +8,7 @@ MongoDB.find('task',{"isOpen":true}, function (err, res) {
            return new Date().getTime() >= new Date(item.lastRunTime).getTime()+ Number(item.timeInterval);
        });
         /*screenshot([list[0]]);*/
-        screenshot([list[1]]).then(function(resultList){
+        screenshot(list).then(function(resultList){
             if(!resultList || resultList.length == 0){
                 return;
             }

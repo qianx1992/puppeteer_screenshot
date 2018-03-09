@@ -30,7 +30,7 @@ function screenshot(taskList) {
         puppeteer.launch({
             executablePath: './chromium/chrome.exe',
             ignoreHTTPSErrors: true,
-            headless: false,
+            headless: true,
             slowMo: 250,
             timeout: 0
         }).then(async browser => {
@@ -46,6 +46,7 @@ function screenshot(taskList) {
                         await page.emulate(devices[parameters.device]);
                     }
                     await page.setViewport(parameters.viewport);
+                    console.log(parameters.url);
                     await page.goto(parameters.url, {timeout: 0}); //防止页面太长，加载超时
 
                     //注入代码，慢慢把滚动条滑到最底部，保证所有的元素被全部加载
@@ -55,6 +56,7 @@ function screenshot(taskList) {
                         scrollEnable:true,
                         actHeight:0
                     };
+                    await page.waitFor("html");
                     while (reslut.scrollEnable) {
                         reslut = await page.evaluate((scrollStep) => {
                             let scrollTop = document.scrollingElement.scrollTop;
@@ -78,7 +80,7 @@ function screenshot(taskList) {
                         }
                     });
                     var ssimages=taskList[i].screenshotImages;
-                    console.dir(ssimages[0]);
+                    /*console.dir(ssimages[0]);*/
                     ssimages.push(filename);
 
                     resultList.push(
